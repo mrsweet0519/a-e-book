@@ -1,0 +1,7 @@
+{
+  "name": "ebook",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
